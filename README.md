@@ -1,7 +1,7 @@
 # ECE661_ComputerEngineeringMachineLearning&DeepNeuralNets
 
 Assigments
-1. [Linear Model, Back Propagation and Building a CNN](https://github.com/BarbaraPFloresRios/ECE661_ComputerEngineeringMachineLearning-DeepNeuralNets/tree/main/Assigment_1_LinearModel_BackPropagation_CNN)
+1. [Linear Model, Back Propagation and Building a CNN]([https://github.com/BarbaraPFloresRios/ECE661_ComputerEngineeringMachineLearning-DeepNeuralNets/tree/main/Assigment_1_LinearModel_BackPropagation_CNN](https://github.com/BarbaraPFloresRios/ECE661_ComputerEngineeringMachineLearningAndDeepNeuralNets/blob/main/Assigment_1_LinearModel_BackPropagation_CNN/Homework_1_Linear_Model__Back_Propagation_and_Building_a_CNN_Barbara_Flores.pdf))
 
 
 https://docs.google.com/document/d/1FTp0lnqbfdEOsL_kpJKQUZhLPWWoxrIK/edit
